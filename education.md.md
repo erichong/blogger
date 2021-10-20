@@ -5,5 +5,7 @@
 
 ## 考える力は個を認知する力、個を表現する力だ。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NzI2NDk4LC0zMzg5OTEwODBdfQ==
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IOaVmeiCslxuIiwiaGlzdG
+9yeSI6WzIzNDcyODY4MywyODk3MjY0OTgsLTMzODk5MTA4MF19
+
 -->
